@@ -2,7 +2,7 @@
 
 **Software Developer | Backend Specialist | Web Application Developer**
 
-📍 Antananarivo, Madagascar | 📧 andrilalaina144@gmail.com | 📱 +034 93 950 72
+📍 Antananarivo, Madagascar | 📧 andrilalaina144@gmail.com | 📱 +261 034 93 950 72
 
 ---
 
