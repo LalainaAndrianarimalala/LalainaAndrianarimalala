@@ -19,8 +19,6 @@ I'm committed to:
 
 ---
 
----
-
 ## 🛠️ Technical Skills
 
 ### **Backend Development**
@@ -50,6 +48,40 @@ I'm committed to:
 ### **Office & Productivity**
 - Microsoft Office Suite (Word, Excel, PowerPoint)
 - Technical documentation
+
+---
+
+## 🏗️ Architecture & Design Patterns
+
+### **Domain-Driven Design (DDD)**
+- **Value Objects** and **Aggregates** for domain modeling
+- **Ubiquitous Language** for clear communication between developers and domain experts
+- **Bounded Contexts** to organize large systems
+- **Event Sourcing** for tracking domain events
+- Application of DDD principles in Symfony projects
+
+### **CQRS (Command Query Responsibility Segregation)**
+- Separation of read and write operations
+- **Command Handlers** for state-changing operations
+- **Query Handlers** for data retrieval
+- Event-driven architecture patterns
+- Integration with event buses
+
+### **Clean Architecture**
+- **Layered Architecture:** Presentation, Application, Domain, Infrastructure
+- **Dependency Inversion:** Abstractions over concrete implementations
+- **Single Responsibility Principle** (SRP)
+- **Open/Closed Principle** (OCP) for extensibility
+- Clear separation of concerns across application layers
+- Framework-independent core business logic
+
+### **Test-Driven Development (TDD)**
+- **Unit Testing:** Testing individual components in isolation
+- **Integration Testing:** Verifying component interactions
+- **Functional Testing:** End-to-end scenario validation
+- **PHPUnit** for PHP backend testing
+- Red-Green-Refactor methodology
+- High code coverage and quality standards
 
 ---
 
